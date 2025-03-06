@@ -6,8 +6,9 @@
 
 I am bringing this alternative installer for LEGO Island back to life in order to keep it alive. In the medium term, I aim to make it install MODern LEGO Island ( https://olivatryd.itch.io/modern-lego-island ), allowing installation from the original ISO and enabling it to run directly on modern computers.
 
-1.3 I update some code and new minium OS: windows 10.
-
+1.3 Version
+- I update some code and new minium OS: windows 10.
+- New image 
 
 ## Original
 
