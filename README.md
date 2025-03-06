@@ -1,7 +1,19 @@
-# LEGO Island Alternate Installer
-> An alternate installer for the 1997 video game **LEGO Island**
+# LEGO Island modern Installer
+> An Moderm installer for the 1997 video game **LEGO Island**
 
-## Features
+
+
+
+I am bringing this alternative installer for LEGO Island back to life in order to keep it alive. In the medium term, I aim to make it install MODern LEGO Island ( https://olivatryd.itch.io/modern-lego-island ), allowing installation from the original ISO and enabling it to run directly on modern computers.
+
+
+
+## Original
+
+This is based on https://github.com/le717/Island-Alternate-Installer, I am continuing the already archived project.
+
+
+## Old Features
 
 * Acts as a full replacement for the original 16-bit InstallShield installer
 * Improves game compatibility on modern versions of Windows by updating outdated APIs
@@ -11,11 +23,4 @@
 * Enables installation of the Japanese version, whose original installer was locked to Windows 9x
 
 
-## Contributors
 
-- [le717](https://github.com/le717/)
-- [Ramen2X](https://github.com/Ramen2X/)
-
-## License
-
-2012-2021 [MIT](LICENSE)
